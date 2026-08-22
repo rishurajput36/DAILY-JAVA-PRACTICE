@@ -1,4 +1,4 @@
-// Binary search...
+// Binary search...Works only on sorted array.
 import java.util.Scanner;
 public class Binarysearch{
     public static void main(String[] args) {
